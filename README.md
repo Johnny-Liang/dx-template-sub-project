@@ -1,1 +1,1 @@
-# -dx-template-sub-project
+# dx-template-sub-project
